@@ -6,3 +6,6 @@ It might not work with all browsers. Please, use Chrome or Firefox
 as your browser to see this project.
 
 Thanks!
+---------------------------------------------------
+Please visit the site!
+https://andrerothweiler.ch/projects/bali/index.html
