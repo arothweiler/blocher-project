@@ -8,4 +8,4 @@ as your browser to see this project.
 Thanks!
 ---------------------------------------------------
 Please visit the site!
-https://andrerothweiler.ch/projects/bali/index.html
+https://andrerothweiler.ch/projects/blocher/index.html
