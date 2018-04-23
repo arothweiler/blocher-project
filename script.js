@@ -13,9 +13,17 @@ $(document).ready(function() {
         var random_file = audio_files[Math.floor(Math.random() * audio_files.length)];
         var audio = new Audio(random_file);
         document.getElementById("blocherbild").src = bild;
+
         audio.onended = function() {
             document.getElementById("blocherbild").src = erstes_bild;
+            $("button").css('display', 'block')
         }
-        audio.play();
+        
+        if(audio.play()){
+            $("button").css('display', 'none')
+        }
+       
+        
+       
     })
 });
