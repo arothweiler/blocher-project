@@ -8,4 +8,6 @@ as your browser to see this project.
 Thanks!
 ---------------------------------------------------
 Please visit the site!
-https://andrerothweiler.ch/projects/blocher/index.html
+
+<bold><a href="https://andrerothweiler.ch/projects/blocher/index.html">check it out</a><bold/>
+
