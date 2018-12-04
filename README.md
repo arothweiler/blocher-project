@@ -9,5 +9,5 @@ Thanks!
 ---------------------------------------------------
 Please visit the site!
 
-<bold><a href="https://andrerothweiler.ch/projects/blocher/index.html">check it out</a><bold/>
+<bold><a href="https://arothweiler.github.io/blocher-project">check it out</a><bold/>
 
